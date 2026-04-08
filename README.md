@@ -1,2 +1,3 @@
-# ttf
-ttf 字体 SIMYOU.TTF simhei.ttf
+项目中使用：
+
+https://cdn.jsdelivr.net/gh/rento666/ttf/simhei.ttf
